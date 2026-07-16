@@ -279,9 +279,6 @@ Sensitive credentials (API keys, passwords, tokens) have been either removed or 
 ## 👤 Author
 
 **Shivam Kumar**  
-[![LinkedIn][linkedin-shield]][in/shivamkumar-dce-cybersecurity]  
-[![GitHub][github-shield]][https://github.com/iamkrshivam]
-
 ---
 
 ⭐ If you found this project useful, consider giving it a star!

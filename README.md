@@ -1,25 +1,12 @@
-
-<!-- PROJECT SHIELD -->
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][in/shivamkumar-dce-cybersecurity]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/your-username/SOC-Lab-with-Wazuh">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">🛡️ Enterprise SOC Lab — Powered by Wazuh SIEM</h3>
-
   <p align="center">
-    A complete Security Operations Center lab for threat detection, intelligence enrichment, and automated response.
-   
+    A complete Security Operations Center lab for threat detection, intelligence enrichment, and automated response.   
   </p>
 </div>
-
 ---
-
 ## 📑 Table of Contents
 
 - [Project Overview](#-project-overview)

@@ -1,7 +1,7 @@
 
 <!-- PROJECT SHIELD -->
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][in/shivamkumar-dce-cybersecurity]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -14,13 +14,7 @@
 
   <p align="center">
     A complete Security Operations Center lab for threat detection, intelligence enrichment, and automated response.
-    <br />
-    <a href="https://github.com/your-username/SOC-Lab-with-Wazuh#readme"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/your-username/SOC-Lab-with-Wazuh/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/your-username/SOC-Lab-with-Wazuh/issues">Request Feature</a>
+   
   </p>
 </div>
 

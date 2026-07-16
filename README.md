@@ -1,7 +1,5 @@
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  <h3 align="center">🛡️ Enterprise SOC Lab — Powered by Wazuh SIEM</h3>
+  <h1 align="center">🛡️ Enterprise SOC Lab — Powered by Wazuh SIEM</h1>
   <p align="center">
     A complete Security Operations Center lab for threat detection, intelligence enrichment, and automated response.   
   </p>

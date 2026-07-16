@@ -4,7 +4,7 @@
     A complete Security Operations Center lab for threat detection, intelligence enrichment, and automated response.   
   </p>
 </div>
----
+
 ## 📑 Table of Contents
 
 - [Project Overview](#-project-overview)
